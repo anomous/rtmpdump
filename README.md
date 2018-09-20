@@ -1,4 +1,0 @@
-rtmpdump
-========
-
-RTMPDump [git clone]
