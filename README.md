@@ -5,7 +5,9 @@ Copyright © 2009 Andrej Stepanchuk
 Copyright © 2010-2011 Howard Chu
 
 License: GPLv2
+
 librtmp license: LGPLv2.1
+
 http://rtmpdump.mplayerhq.hu/
 
 To compile type "make" with SYS=<platform name>, e.g.
