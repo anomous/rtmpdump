@@ -1,6 +1,7 @@
 RTMPDump v2.4
- 
-Copyright © 2009 Andrej Stepanchuk 
+
+Copyright © 2009 Andrej Stepanchuk
+
 Copyright © 2010-2011 Howard Chu
 
 License: GPLv2
