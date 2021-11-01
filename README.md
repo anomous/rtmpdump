@@ -5,7 +5,7 @@ RTMP Dump v2.4
 (C) 2011 33ae1ce77301f4b4494faaa5f609f3c48b9dcf82
 License: GPLv2
 librtmp license: LGPLv2.1
-http://rtmpdump.mplayerhq.hu/
+http://rtmpdump.mplayerhq.hu
 
 Download the source:
 
