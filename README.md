@@ -7,6 +7,14 @@ License: GPLv2
 librtmp license: LGPLv2.1
 http://rtmpdump.mplayerhq.hu/
 
+Download the source:
+
+git clone --recursive "git://git.ffmpeg.org/rtmpdump"
+
+Change directory to 'rtmpdump'
+
+cd "rtmpdump"
+
 To compile type "make" with SYS=<platform name>, e.g.
 
   $ make SYS=posix
