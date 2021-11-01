@@ -1,12 +1,12 @@
 VERSION=v2.4
 
-prefix=/usr/local
+prefix=/usr/bin
 
 CC=$(CROSS_COMPILE)gcc
 LD=$(CROSS_COMPILE)ld
 
-SYS=posix
-#SYS=mingw
+#SYS=posix
+SYS=mingw
 
 CRYPTO=OPENSSL
 #CRYPTO=POLARSSL
