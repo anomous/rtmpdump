@@ -1,25 +1,11 @@
 RTMP Dump v2.4
-
 (C) 2009 Andrej Stepanchuk
-
 (C) 2009-2011 Howard Chu
-
 (C) 2010 2a665470ced7adb7156fcef47f8199a6371c117b8a79e399a2771e0b36384090
-
 (C) 2011 33ae1ce77301f4b4494faaa5f609f3c48b9dcf82
-
 License: GPLv2
 librtmp license: LGPLv2.1
-
-http://rtmpdump.mplayerhq.hu
-
-Download the source:
-
-git clone --recursive "git://git.ffmpeg.org/rtmpdump"
-
-Change directory to 'rtmpdump'
-
-cd "rtmpdump"
+http://rtmpdump.mplayerhq.hu/
 
 To compile type "make" with SYS=<platform name>, e.g.
 
